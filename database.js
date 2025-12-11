@@ -11,7 +11,7 @@ class Database {
         });
 
 
-        db.run(createNotesTable)
+        db.run(createNotesTable);
     }
 }
 
